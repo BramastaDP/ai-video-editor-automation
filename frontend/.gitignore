@@ -1,0 +1,18 @@
+# Abaikan folder Virtual Environment Python
+backend/venv/
+__pycache__/
+
+# Abaikan folder Library Node.js (Frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Abaikan file media & font hasil download
+backend/*.mp4
+backend/*.mp3
+backend/*.ttf
+backend/temp_*
+
+# Abaikan file sistem Mac
+.DS_Store
+node_modules
