@@ -14,8 +14,8 @@ Dibuat untuk mengatasi masalah editing manual yang memakan waktu, aplikasi ini m
 ## 📸 Tampilan Aplikasi (Preview)
 
 > *Tampilan Antarmuka Modern dengan Mode Gelap & Glassmorphism*
-![UI Screenshot](https://github.com/BramastaDP/ai-video-editor-automation/blob/main/frontend/public/ui-preview.jpg?raw=true)
-*(Catatan: Ganti link gambar di atas dengan screenshot asli UI Anda setelah di-upload)*
+![UI Screenshot](https://github.com/BramastaDP/ai-video-editor-automation/blob/main/Screenshot%202025-12-11%20at%2013.58.34.png)
+
 
 ---
 
@@ -57,11 +57,4 @@ Pastikan sudah terinstall:
 * Node.js & NPM
 * ImageMagick & FFmpeg
 
-### 1. Instalasi Backend
-```bash
-cd backend
-python3 -m venv venv
-source venv/bin/activate  # (Mac/Linux)
-# atau: venv\Scripts\activate (Windows)
 
-pip install fastapi uvicorn python-multipart moviepy==1.0.3 openai-whisper ffmpeg-python
