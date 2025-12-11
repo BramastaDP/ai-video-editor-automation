@@ -58,3 +58,6 @@ Pastikan sudah terinstall:
 * ImageMagick & FFmpeg
 
 
+## 👨‍💻 Author
+Dibuat dengan ❤️ dan ☕ oleh Bramasta Dhuanda Prastiko.
+
